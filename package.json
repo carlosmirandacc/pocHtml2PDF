@@ -1,0 +1,19 @@
+{
+  "name": "pochtml2pdf",
+  "version": "1.0.0",
+  "description": "POC to generate a pdf file from an HTML graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosmirandacc/pocHtml2PDF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosmirandacc/pocHtml2PDF/issues"
+  },
+  "homepage": "https://github.com/carlosmirandacc/pocHtml2PDF#readme"
+}
